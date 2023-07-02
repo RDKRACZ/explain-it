@@ -1,7 +1,7 @@
 # explain-it
 
 so far nonexistent python module for generating these:
-
+```
 ┌───────────── minute (0 - 59)
 │ ┌───────────── hour (0 - 23)
 │ │ ┌───────────── day of the month (1 - 31)
